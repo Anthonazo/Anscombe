@@ -5,7 +5,7 @@
 <h1 align="center">Universidad Politécnica Salesiana del Ecuador</h1>
 
 <p align="center"><strong>Carrera:</strong> Ingeniería en Ciencias de la Computación</p>
-<p align="center"><strong>Período:</strong> Octavo semestre, 2025</p>
+<p align="center"><strong>Período:</strong> 2025 - 2025, Octavo semestre </p>
 <p align="center"><strong>Estudiante:</strong> Anthony Moya Ochoa</p>
 
 
@@ -58,7 +58,7 @@ El Cuarteto de Anscombe es también un llamado de atención sobre la confianza e
 <ul>
   <li><code>Dino_Regression.Rmd</code>: Archivo Markdown de R donde se explica el análisis y la regresión realizada sobre el dataset Datasaurus Dozen.</li>
   <li><code>Dino_Regression.html</code>: Versión HTML generada automáticamente a partir del archivo R Markdown, que muestra el análisis de manera interactiva y visual.</li>
-  <li><code>Visual_Dino_Regression.jpg</code>: Imagen generada durante el análisis que muestra la regresión aplicada al dataset Datasaurus Dozen, ilustrando visualmente los resultados obtenidos.</li>
+  <li><code>Visual_Dino_Regression.jpg</code>: Imagen creada durante el análisis que muestra la regresión aplicada al dataset Datasaurus Dozen, ilustrando visualmente los resultados obtenidos de manera manual.</li>
 </ul>
 
 <hr style="border: 1px solid #ecf0f1; margin-top: 40px;"/>
